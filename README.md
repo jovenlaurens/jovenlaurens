@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jovenlaurens&label=Profile%20views&color=0e75b6&style=flat" alt="jovenlaurens" /> </p>
 
-- 🔭 I’m currently working on **my personal website**
-
-- 🌱 I’m currently learning **Front End Development: JavaScript, CSS, HTML, and React Native**
-
 - 📫 How to reach me **joven.nicholas@gmail.com**
 
 - ⚡ Fun fact **I am good at guitar**
